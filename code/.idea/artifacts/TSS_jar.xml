@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TSS:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/TSS_jar</output-path>
+    <root id="archive" name="TSS.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/src/main/java/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="TSS" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/GrafoOptiLib.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/gurobi.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/commons/commons-collections4/4.4/commons-collections4-4.4.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

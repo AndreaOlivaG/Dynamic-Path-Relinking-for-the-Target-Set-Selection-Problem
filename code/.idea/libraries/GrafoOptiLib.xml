@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="GrafoOptiLib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/GrafoOptiLib.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
